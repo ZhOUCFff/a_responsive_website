@@ -1,0 +1,14 @@
+.DS_Store
+
+**/node_modules
+
+**/package.json
+**/package-lock.json
+**/.babelrc
+
+css/*.css
+css/*.scss
+!css/*.min.css
+
+js/*.js
+!js/*.min.js
